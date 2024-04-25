@@ -1,0 +1,1 @@
+void afficheur(const char message[]);
